@@ -1,0 +1,12 @@
+[
+{"id":"angkor","name":"Angkor Archaeological Park","provinceId":"siem-reap","category":"heritage","coordinates":null},
+{"id":"royal-palace","name":"Royal Palace, Phnom Penh","provinceId":"phnom-penh","category":"heritage","coordinates":null},
+{"id":"tonle-sap","name":"Tonlé Sap Lake","provinceId":null,"category":"nature","coordinates":null,"note":"Spans several provinces; association to be verified."},
+{"id":"bokor","name":"Bokor National Park","provinceId":"kampot","category":"nature","coordinates":null},
+{"id":"kep-np","name":"Kep National Park","provinceId":"kep","category":"nature","coordinates":null},
+{"id":"koh-rong","name":"Koh Rong","provinceId":"preah-sihanouk","category":"coast","coordinates":null},
+{"id":"mondulkiri-highlands","name":"Mondulkiri highlands and waterfalls","provinceId":"mondulkiri","category":"nature","coordinates":null},
+{"id":"ratanakiri-nature","name":"Ratanakiri natural attractions","provinceId":"ratanakiri","category":"nature","coordinates":null},
+{"id":"preah-vihear-temple","name":"Preah Vihear Temple","provinceId":"preah-vihear","category":"heritage","coordinates":null},
+{"id":"battambang-heritage","name":"Battambang cultural and architectural attractions","provinceId":"battambang","category":"heritage","coordinates":null}
+]
